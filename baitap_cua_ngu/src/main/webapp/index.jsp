@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Login-Test</title>
+    <title>Login</title>
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
